@@ -1,3 +1,3 @@
 # SpringBeginnerEasy
 
-###プロジェクト開始a
+###プロジェクト開始です
