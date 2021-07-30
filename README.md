@@ -1,4 +1,4 @@
 # SpringBeginnerEasy
 
 ###プロジェクト開始
-aaasaaaaaaaaa
+####GitHub手順
